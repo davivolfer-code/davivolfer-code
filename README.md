@@ -1,17 +1,24 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=Hello!+I'm+Davi+Fernandes;Backend+Developer;Building+my+future+in+the+USA" />
+</p>
+
 # 👋 Hello! I'm Davi Fernandes
 
-💻 Future Backend Developer  
+💻 Backend Developer  
 📚 Systems Analysis and Development Student  
-🌎 Future International Software Engineer
+🌎 Future International Software Engineer  
 
 ---
 
 ## 🚀 About Me
 
-I'm a backend developer passionate about building scalable systems and writing clean, maintainable code.  
+I'm a backend developer passionate about building scalable systems and writing clean, maintainable code.
+
 Currently studying Systems Analysis and Development at Fatec Rio Preto.
 
-I’m constantly improving my English and technical skills to work internationally.
+My goal is to build high-performance backend applications and work internationally, contributing to impactful global projects.
+
+I’m constantly improving my English and technical skills to reach the next level.
 
 ---
 
@@ -45,17 +52,18 @@ I’m constantly improving my English and technical skills to work international
 
 ## 📫 Contact Me
 
-- LinkedIn: (https://www.linkedin.com/in/davi-fernandes-geraldo-28897b2ab/)
+- LinkedIn: https://www.linkedin.com/in/davi-fernandes-geraldo-28897b2ab/
 - Email: davivolfer@gmail.com
 
 ---
 
 ## 🎯 2026 Goals
 
-- Improve backend architecture skills
-- Build real-world projects
+- Strengthen backend architecture knowledge
+- Build production-ready projects
 - Contribute to open source
+- Achieve professional fluency in English
 
 ---
 
-⭐ Always learning. Always building.
+⭐ Always learning. Always building. Always evolving.
