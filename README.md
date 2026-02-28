@@ -2,8 +2,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=Hello!+I'm+Davi+Fernandes;Backend+Developer;Building+my+future+in+the+USA" />
 </p>
 
-# 👋 Hello! I'm Davi Fernandes
 
+# 👋 Hello! I'm Davi Fernandes
 💻 Backend Developer  
 📚 Systems Analysis and Development Student  
 🌎 Future International Software Engineer  
